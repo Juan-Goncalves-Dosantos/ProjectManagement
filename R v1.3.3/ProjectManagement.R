@@ -19,7 +19,6 @@
 ##' @import lpSolveAPI
 ##'
 ##' @importFrom  graphics hist legend lines plot points segments axis
-##' @importFrom grDevices windows
 ##' @importFrom stats density dnorm ecdf quantile rexp rnorm runif sd rbeta rbinom rchisq rf rgamma rgeom rhyper rpois rt rweibull
 ##' @importFrom utils combn
 ##' @importFrom triangle rtriangle
